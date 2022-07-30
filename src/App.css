@@ -1,0 +1,29 @@
+.node {
+    padding: 1em;
+    /* border: 1px solid black; */
+    box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+    border-radius: 16px;
+    white-space: pre-line;
+    background-color: white;
+    z-index: 1;
+}
+
+.graph {
+    margin: 3em;
+}
+
+* {
+    font-family: 'Inter';
+}
+
+h2, h3 {
+    font-weight: 600;
+}
+
+.edge {
+    /* border-left: 2px solid black;
+    border-bottom: 2px solid black; */
+    margin: 1em 0 0 1em;
+    /* border-radius: 16px; */
+    z-index: 0;
+}
