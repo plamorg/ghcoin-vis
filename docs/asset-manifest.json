@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ghcoin-vis/static/css/main.084d5fbe.css",
+    "main.js": "/ghcoin-vis/static/js/main.5d284400.js",
+    "static/js/787.6b3714ef.chunk.js": "/ghcoin-vis/static/js/787.6b3714ef.chunk.js",
+    "index.html": "/ghcoin-vis/index.html",
+    "main.084d5fbe.css.map": "/ghcoin-vis/static/css/main.084d5fbe.css.map",
+    "main.5d284400.js.map": "/ghcoin-vis/static/js/main.5d284400.js.map",
+    "787.6b3714ef.chunk.js.map": "/ghcoin-vis/static/js/787.6b3714ef.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.084d5fbe.css",
+    "static/js/main.5d284400.js"
+  ]
+}
